@@ -8,8 +8,7 @@ assignees: ''
 ---
 
 Please provide all the information requested here to help us troubleshoot "mining/WinningPoSt failed" issues.
-If the information requested is missing, we will probably have to just ask you to provide it anyway,
-before we can help debug.
+If the information requested is missing, you may be asked you to provide it.
 
 **Describe the problem**
 A brief description of the problem you encountered while mining new blocks.
